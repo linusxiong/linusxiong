@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 ### 💬 Worked language for me
 
 - Python
-- Java / JavaScript / React
-- Go
+- Java / JavaScript
+- Golang
 - PHP
+- Typescript
 - HTML
 
 
