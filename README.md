@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there!
+## 👋 Hi there!
 
 - 🏫 B.S. in Computer Sciences And Engineering @ The Ohio State University
 - 💭 [Nebula-Emby](https://t.me/Nebula_Emby) Co-Founder, [DH-DNS](https://t.me/dhdns) Co-Founder
 - 📬 Mail: xiong.545#osu.edu
 - 🌏 Languages: Chinese 中文, English
 
-## 💬 Worked language for me
+### 💬 Worked language for me
 
 - Python
 - Java / JavaScript / React
