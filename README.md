@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! 👋
+### 👋 Hi there!
 
 - 🏫 B.S. in Computer Sciences And Engineering @ The Ohio State University
 - 💭 [Nebula-Emby](https://t.me/Nebula_Emby) Co-Founder, [DH-DNS](https://t.me/dhdns) Co-Founder
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - HTML
 
 
-📊 Statistics
+### 📊 Statistics
 
 <div style="display: flex; align-content: flex-start; flex-flow: row wrap;">
 	<img alt="xsy2004's GitHub Stats" src="https://raw.githubusercontent.com/xsy2004/github-stats/master/generated/overview.svg">
