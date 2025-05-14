@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 ### 💬 Worked language for me
 
-- Python
-- Java / JavaScript
+- C
+- Java 
+- JavaScript
 - Golang
+- Python
 - PHP
 - Typescript
 - HTML
