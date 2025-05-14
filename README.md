@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 👋 Hi there!
 
 - 🏫 B.S. in Computer Sciences And Engineering @ The Ohio State University
-- 💭 [Nebula-Emby](https://t.me/Nebula_Emby) Co-Founder, [DH-DNS](https://t.me/dhdns) Co-Founder
+- 💭 [Nebula-Emby](https://t.me/Nebula_Media) Co-Founder, [DH-DNS](https://t.me/dhdns) Co-Founder
 - 🌏 Languages: Chinese 中文, English
 
 ### 💬 Worked language for me
