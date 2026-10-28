@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi there!
-
+- 🏫 M.S. in Computer Engineering @ Columbia University
 - 🏫 B.S. in Computer Sciences And Engineering @ The Ohio State University
 - 🌏 Languages: Chinese 中文, English
 
